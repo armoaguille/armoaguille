@@ -1,0 +1,31 @@
+
+
+---------------------------------------------------------------------
+Processing /Users/guillermo/Documents/TESIS/Procesamiento_videos/data/videos/Cam1_rep/sujeto01_camL/sujeto01_rep09_camL.mov
+On Monday 13. July 2026, 13:13:17
+---------------------------------------------------------------------
+
+Estimating pose...
+Using model HALPE_26 for body_with_feet pose estimation in balanced mode.
+Valid MPS installation found: using ONNXRuntime backend with GPU.
+Using mps device with onnxruntime backend.
+Persons detection is run every 1 frames (pose estimation is run at every frame). Tracking is done with sports2d.
+All persons are analyzed. Person ordering method is first_detected.
+keypoint_likelihood_threshold=0.3, average_likelihood_threshold=0.5, keypoint_number_threshold=0.3
+
+Processing video stream...
+Video processing completed.
+Reordered persons: IDs of persons [0, 1] become [0, 1].
+
+Post-processing pose:
+- Person 0: No interpolation.
+No filtering.
+Pose in pixels saved to /Users/guillermo/Documents/TESIS/Procesamiento_videos/data/sports2d_raw/Cam1_rep/sujeto01_caml/sujeto01_rep09_camL_Sports2D/sujeto01_rep09_camL_Sports2D_px_person00.trc.
+- Person 1: No interpolation.
+No filtering.
+Pose in pixels saved to /Users/guillermo/Documents/TESIS/Procesamiento_videos/data/sports2d_raw/Cam1_rep/sujeto01_caml/sujeto01_rep09_camL_Sports2D/sujeto01_rep09_camL_Sports2D_px_person01.trc.
+
+Saving images of processed pose and angles:
+Processed video saved to /Users/guillermo/Documents/TESIS/Procesamiento_videos/data/sports2d_raw/Cam1_rep/sujeto01_caml/sujeto01_rep09_camL_Sports2D/sujeto01_rep09_camL_Sports2D.mp4.
+
+Processing /Users/guillermo/Documents/TESIS/Procesamiento_videos/data/videos/Cam1_rep/sujeto01_camL/sujeto01_rep09_camL.mov took 11.07 s.
