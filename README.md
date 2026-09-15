@@ -1,5 +1,7 @@
+<h1 align="center">Guillermo Armoa</h1>
+
 <p align="center">
-  <img src="assets/banner.svg" alt="Markerless pose pipeline — landing asymmetry" width="880">
+  <strong>Biomedical Engineering · Computer Vision · Deep Learning · Biomechanics</strong>
 </p>
 
 <p align="center">
@@ -12,7 +14,7 @@
 
 Biomedical engineer (PUCP, Lima) currently finishing my undergraduate thesis on **AI-assisted motion analysis**:
 a markerless pipeline that detects lower-limb landing asymmetries in volleyball players, validated against
-videogrammetry — that's the real data you're seeing in the banner above.
+videogrammetry.
 
 I work where **computer vision**, **biomechanics** and **deep learning** meet: pose estimation on video,
 signal processing on wearables, and ML models on medical images. More than any single tool, what I enjoy
@@ -21,20 +23,13 @@ is learning — new methods, new domains, new problems.
 - Research at **TeHealP** (Technology Applied to Health and Physical Performance, PUCP)
 - Previously: research intern at **LIBRA** (Biomechanics & Applied Robotics Lab, PUCP), clinical engineering intern at Clínica Internacional
 
-### Collaborations
-
-| Project | Repo | What it is |
-|---|---|---|
-| **TOTO — Toolkit for Open Tracking and Observation** | [TOTO-Toolkit/TOTO-dev](https://github.com/TOTO-Toolkit/TOTO-dev) | Local-first, model-agnostic toolkit for human tracking, 3D reconstruction and biomechanical analysis. Contributed code and design. |
-| **VIDAWASI Ecografía** | [SergioHerrera2003/VIDAWASI_Ecografia](https://github.com/SergioHerrera2003/VIDAWASI_Ecografia) | Augmented-reality ultrasound guidance + organ detection + web-based telediagnosis platform for rural settings. Contributed code and design. |
-
 ### Selected work
 
 | Project | What it does | Status |
 |---|---|---|
 | **Landing asymmetry thesis** | Markerless pose pipeline (Sports2D vs Kinovea) → Winter residual filtering, joint angles, SPM1D / Bland-Altman / ICC / SI% | In progress |
-| **Pediatric appendicitis CDSS** | Deep-learning ultrasound classifier + automated reporting for rural Andean settings | IFMBE Student Project Contest winner (SABI 2025) · Springer IFMBE Proc. vol. 136 |
-| **Parkinson's tremor & FOG** | iOS inertial sensing @50 Hz + Random Forest (90% FOG accuracy), spectral tremor analysis (4–6 Hz) | ICIIBMS 2025 |
+| **Pediatric appendicitis CDSS** | Deep-learning ultrasound classifier + automated reporting for rural Andean settings | IFMBE Student Project Contest winner (SABI 2025) · [Springer IFMBE Proc. vol. 136](https://link.springer.com/chapter/10.1007/978-3-032-06401-1_124) |
+| **Parkinson's tremor & FOG** | iOS inertial sensing @50 Hz + Random Forest (90% FOG accuracy), spectral tremor analysis (4–6 Hz) | [ICIIBMS 2025 — IEEE Xplore](https://ieeexplore.ieee.org/document/11316764) |
 | **Clinical sign-language interpreter** | MediaPipe Holistic landmarks + vision models + LLM semantic integration; 8.22 FPS on a laptop, single RGB camera | Poster, IEEE EMBC 2026 (Toronto) |
 | **YOLO caries detection** | Multi-seed (15 seeds) YOLO11 vs YOLO26 benchmark on panoramic radiographs under limited GPU | Accepted, J. of AI in Dentistry |
 
@@ -51,7 +46,3 @@ Data          NumPy · Pandas · Matplotlib · Seaborn · Power BI · Excel
 CAD           Fusion 360 · Inventor · Onshape
 Hardware      OpenBCI · Ultracortex Mark IV · Kinovea
 ```
-
-<p align="center">
-  <i>Off-screen: I play for the PUCP men's volleyball team — the same sport my thesis is about.</i>
-</p>
