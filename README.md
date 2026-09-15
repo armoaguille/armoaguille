@@ -8,20 +8,18 @@
   <img src="https://img.shields.io/badge/Lima-Peru-7C3AED?style=flat-square" alt="Lima, Peru">
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="">
-
 ### About
 
-I build systems that turn raw biomedical signals and video into something a clinician can act on.
-Right now I'm finishing my undergraduate thesis on **AI-assisted motion analysis** to detect lower-limb landing
-asymmetries in volleyball players, validating a markerless pipeline against videogrammetry as reference standard.
-That's what the banner above is showing — left vs right knee flexion through a landing, and the symmetry index it produces.
+Biomedical engineer (PUCP, Lima) currently finishing my undergraduate thesis on **AI-assisted motion analysis**:
+a markerless pipeline that detects lower-limb landing asymmetries in volleyball players, validated against
+videogrammetry — that's the real data you're seeing in the banner above.
 
-- Research at **TeHealP** — Technology Applied to Health and Physical Performance, PUCP
+I work where **computer vision**, **biomechanics** and **deep learning** meet: pose estimation on video,
+signal processing on wearables, and ML models on medical images. More than any single tool, what I enjoy
+is learning — new methods, new domains, new problems.
+
+- Research at **TeHealP** (Technology Applied to Health and Physical Performance, PUCP)
 - Previously: research intern at **LIBRA** (Biomechanics & Applied Robotics Lab, PUCP), clinical engineering intern at Clínica Internacional
-- Interests: human movement biomechanics · deep learning for health · biomedical signal processing · wearables · medical imaging
-
-<img src="assets/divider.svg" width="100%" alt="">
 
 ### Selected work
 
@@ -32,8 +30,6 @@ That's what the banner above is showing — left vs right knee flexion through a
 | **Parkinson's tremor & FOG** | iOS inertial sensing @50 Hz + Random Forest (90% FOG accuracy), spectral tremor analysis (4–6 Hz) | ICIIBMS 2025 |
 | **Clinical sign-language interpreter** | MediaPipe Holistic landmarks + vision models + LLM semantic integration; 8.22 FPS on a laptop, single RGB camera | Poster, IEEE EMBC 2026 (Toronto) |
 | **YOLO caries detection** | Multi-seed (15 seeds) YOLO11 vs YOLO26 benchmark on panoramic radiographs under limited GPU | Accepted, J. of AI in Dentistry |
-
-<img src="assets/divider.svg" width="100%" alt="">
 
 ### Toolbox
 
@@ -48,8 +44,6 @@ Data          NumPy · Pandas · Matplotlib · Seaborn · Power BI · Excel
 CAD           Fusion 360 · Inventor · Onshape
 Hardware      OpenBCI · Ultracortex Mark IV · Kinovea
 ```
-
-<img src="assets/divider.svg" width="100%" alt="">
 
 <p align="center">
   <i>Off-screen: I play for the PUCP men's volleyball team — the same sport my thesis is about.</i>
