@@ -21,6 +21,13 @@ is learning — new methods, new domains, new problems.
 - Research at **TeHealP** (Technology Applied to Health and Physical Performance, PUCP)
 - Previously: research intern at **LIBRA** (Biomechanics & Applied Robotics Lab, PUCP), clinical engineering intern at Clínica Internacional
 
+### Collaborations
+
+| Project | Repo | What it is |
+|---|---|---|
+| **TOTO — Toolkit for Open Tracking and Observation** | [TOTO-Toolkit/TOTO-dev](https://github.com/TOTO-Toolkit/TOTO-dev) | Local-first, model-agnostic toolkit for human tracking, 3D reconstruction and biomechanical analysis. Contributed code and design. |
+| **VIDAWASI Ecografía** | [SergioHerrera2003/VIDAWASI_Ecografia](https://github.com/SergioHerrera2003/VIDAWASI_Ecografia) | Augmented-reality ultrasound guidance + organ detection + web-based telediagnosis platform for rural settings. Contributed code and design. |
+
 ### Selected work
 
 | Project | What it does | Status |
