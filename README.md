@@ -26,7 +26,7 @@ is learning — new methods, new domains, new problems.
 | Project | What it does | Status |
 |---|---|---|
 | **Landing asymmetry thesis** | Markerless pose pipeline (Sports2D vs Kinovea) → Winter residual filtering, joint angles, SPM1D / Bland-Altman / ICC / SI% | In progress |
-| **Pediatric appendicitis CDSS** | Deep-learning ultrasound classifier + automated reporting for rural Andean settings | 🏆 IFMBE Student Project Contest winner (SABI 2025) · Springer IFMBE Proc. vol. 136 |
+| **Pediatric appendicitis CDSS** | Deep-learning ultrasound classifier + automated reporting for rural Andean settings | IFMBE Student Project Contest winner (SABI 2025) · Springer IFMBE Proc. vol. 136 |
 | **Parkinson's tremor & FOG** | iOS inertial sensing @50 Hz + Random Forest (90% FOG accuracy), spectral tremor analysis (4–6 Hz) | ICIIBMS 2025 |
 | **Clinical sign-language interpreter** | MediaPipe Holistic landmarks + vision models + LLM semantic integration; 8.22 FPS on a laptop, single RGB camera | Poster, IEEE EMBC 2026 (Toronto) |
 | **YOLO caries detection** | Multi-seed (15 seeds) YOLO11 vs YOLO26 benchmark on panoramic radiographs under limited GPU | Accepted, J. of AI in Dentistry |
