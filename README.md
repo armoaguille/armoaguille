@@ -31,7 +31,6 @@ is learning — new methods, new domains, new problems.
 | **Pediatric appendicitis CDSS** | Deep-learning ultrasound classifier + automated reporting for rural Andean settings | IFMBE Student Project Contest winner (SABI 2025) · [Springer IFMBE Proc. vol. 136](https://link.springer.com/chapter/10.1007/978-3-032-06401-1_124) |
 | **Parkinson's tremor & FOG** | iOS inertial sensing @50 Hz + Random Forest (90% FOG accuracy), spectral tremor analysis (4–6 Hz) | [ICIIBMS 2025 — IEEE Xplore](https://ieeexplore.ieee.org/document/11316764) |
 | **Clinical sign-language interpreter** | MediaPipe Holistic landmarks + vision models + LLM semantic integration; 8.22 FPS on a laptop, single RGB camera | Poster, IEEE EMBC 2026 (Toronto) |
-| **YOLO caries detection** | Multi-seed (15 seeds) YOLO11 vs YOLO26 benchmark on panoramic radiographs under limited GPU | Accepted, J. of AI in Dentistry |
 
 ### Toolbox
 
