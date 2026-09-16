@@ -1,4 +1,4 @@
-<h1 align="center">Guillermo Armoa</h1>
+<h1 align="center">Guillermo J. Armoa</h1>
 
 <p align="center">
   <strong>Biomedical Engineering · Computer Vision · Deep Learning · Biomechanics</strong>
